@@ -7,6 +7,8 @@ studio with several speakers. This is where binaural methods come in, which allo
 heard from human ears. Binaural impulse responses are used to emulate a space, and convolution is used to achieve a faithful reproduction 
 of the acoustics.
 
+![fig5](https://user-images.githubusercontent.com/125342506/230718769-5f0785b7-c694-46e8-87c9-b1d3cdccd6d4.png)
+
 The aim of this project is to develop a software, using binaural impulse responses to auralize the Octophonic studio room at Maynooth University. The software will allow users to experience the room acoustics through headphones in a virtual environment. A specialized microphone, shaped like a human head and ear, will be used to capture the binaural impulse responses of the room. The software will use convolution to apply the captured impulse responses to any audio source, allowing users to simulate the experience of being in the Octophonic studio.
 
 This software application has been developed to emulate the octophonic room at Maynooth University's music department using binaural impulse response
@@ -31,7 +33,6 @@ In conclusion, the software application offers a powerful and flexible solution 
 University's music department. It provides a user-friendly interface, customizable audio control, and helpful visualization features, making it
 an excellent tool for audio professionals and enthusiasts.
 
-![fig5](https://user-images.githubusercontent.com/125342506/230718769-5f0785b7-c694-46e8-87c9-b1d3cdccd6d4.png)
 
 Note: The User needs to download Cabbage and csound to run the application. 
 
